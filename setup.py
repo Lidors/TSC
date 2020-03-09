@@ -12,7 +12,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="TSC-pkg-lidors15", # Replace with your own username
+    name="TSC", # Replace with your own username
     version="0.0.1",
     author="Lidor Spivak",
     author_email="lidors15@gmail.com",
