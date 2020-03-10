@@ -1,0 +1,7 @@
+README.md
+TSC
+setup.py
+TSC.egg-info/PKG-INFO
+TSC.egg-info/SOURCES.txt
+TSC.egg-info/dependency_links.txt
+TSC.egg-info/top_level.txt

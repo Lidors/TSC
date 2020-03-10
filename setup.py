@@ -14,6 +14,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="TSC", # Replace with your own username
     version="0.0.1",
+    scripts=['TSC'],
     author="Lidor Spivak",
     author_email="lidors15@gmail.com",
     description="Trash Spike classifier",
